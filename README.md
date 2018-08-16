@@ -1,3 +1,4 @@
+This is forked from original author's github repo, I reinitialized git, and added a ipynb file according to my own usecase
 # SRNN
 Author: Zeping Yu  <br />
 This work is accepted by COLING 2018. The paper could be downloaded at https://arxiv.org/ftp/arxiv/papers/1807/1807.02291.pdf <br />
